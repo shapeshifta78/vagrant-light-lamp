@@ -1,5 +1,5 @@
-# based on the fabulous https://github.com/mattandersen/vagrant-lamp
-still work in progress
+# work in progress
+based on the fabulous https://github.com/mattandersen/vagrant-lamp
 
 # Vagrant LIGHT-LAMP
 
