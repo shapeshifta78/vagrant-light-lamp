@@ -77,8 +77,8 @@ $script = <<SCRIPT
 	apt-add-repository ppa:chris-lea/node.js
 	apt-get update
 	apt-get install -y nodejs
-	sudo npm install grunt-cli -g
-	sudo npm install bower -g
+	npm install grunt-cli -g
+	npm install bower -g
 
     # Configure VM user
     adduser vagrant www-data

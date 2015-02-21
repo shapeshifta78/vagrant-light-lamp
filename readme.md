@@ -25,8 +25,8 @@ Simply copy the file `vagrantfile` to an existing project.
 
 ### Startup
 
-	$ git clone http://www.github.com/mattandersen/vagrant-lamp lamp
-	$ cd lamp
+	$ git clone https://github.com/shapeshifta78/vagrant-light-lamp box
+	$ cd box
 	$ rm -fr .git
 	$ edit vagrantfile # change project_name and ip_address
 	$ vagrant up
@@ -37,7 +37,7 @@ That is pretty simple.
 
 #### Apache
 
-The Apache server is available at <http://lamp.local/>
+The Apache server is available at <http://box.local/>
 
 #### MySQL
 
